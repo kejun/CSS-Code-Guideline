@@ -97,7 +97,7 @@ Douban CSS Code Guideline
     .selector { property:value;property:value; }
 ```
 
-    简短规则声明（1或2个）也适用单行形式。
+简短规则声明（1或2个）也适用单行形式。
 
 ```css
     .selector { property:value; }
