@@ -51,7 +51,7 @@ Douban CSS Code Guideline
 所有的CSS分为两大类：通用类和业务类。
 
  * 3-1. 通用的CSS文件，放在如下目录中：
-<table width="200" style="margin-left:60px;">
+<table width="300" style="margin-left:60px;">
 <tbody><tr><td> 基本样式库 </td><td style="text-align: left"> /css/core 
 </td></tr><tr><td> 通用UI元素样式库 </td><td style="text-align: left"> /css/lib
 </td></tr><tr><td> JS组件相关样式库 </td><td style="text-align: left"> /css/ui
