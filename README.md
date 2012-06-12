@@ -112,7 +112,7 @@ Douban CSS Code Guideline
     }
 ```
 
-    CSS3兼容书写形式和对齐方式：
+CSS3兼容书写形式和对齐方式：
 
 ```css
     .selector { 
@@ -122,7 +122,7 @@ Douban CSS Code Guideline
     }
 ```
 
-    CSS3中逗号分隔的长属性值：
+CSS3中逗号分隔的长属性值：
 
 ```css
     .selector {
@@ -165,7 +165,8 @@ Douban CSS Code Guideline
       */
 ```
 
-    SCSS中支持单行注释
+SCSS中支持单行注释
+
 ```css
     // mod: doulist
 ```
@@ -188,7 +189,8 @@ Douban CSS Code Guideline
  * 8-1. ID是用来标识具体模块，命名必须具体且唯一，由前缀和名字组成。不要滥用ID。如： #db-video-list、#group-member-list等。
  * 8-2. Class是用来标识某一类型的对象，命名简洁表意清楚。如：.list。
  * 8-3. 命名示例：
-    坏：
+
+坏：
 
 ```css
     #rec
@@ -197,7 +199,7 @@ Douban CSS Code Guideline
     .pl
 ```   
 
-     好：
+好：
 
 ```css
     #db-nav-main
@@ -206,7 +208,7 @@ Douban CSS Code Guideline
 ```
 
  * 8-4. 推荐使用的class名：
-<table width="300" style="margin-left:60px;">
+<table width="400" style="margin-left:60px;">
 <tbody><tr><td> 表示状态 </td><td style="text-align:left;"> .on, .active, .selected, .hili 
 </td></tr><tr><td> 表示位置 </td><td style="text-align:left;"> .first, .last, .main, .side 
 </td></tr><tr><td> 表示结构 </td><td style="text-align:left;"> .hd, .bd, .ft, .col, .section 
